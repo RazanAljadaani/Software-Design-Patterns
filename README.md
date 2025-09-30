@@ -1,2 +1,2 @@
 # Software-Design-Patterns
-Repository for Software Design Patterns project Codes
+Repository for Software Design Patterns Project Codes
